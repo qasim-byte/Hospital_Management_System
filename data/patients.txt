@@ -1,0 +1,5 @@
+52,Qasim Ashfaq,20,Male,TooMuchHardWork,None
+44,Hassan Akram,25,Male,Skin Issues,None
+7,rehman,88,male,nausea,20
+25,Abdul Rehman Bajwa,34,Male,Stupidity,None
+26,Afreen,24,Female,Idiotism,None

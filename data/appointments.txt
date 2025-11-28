@@ -1,0 +1,5 @@
+52,44,2025-12-01
+52,C:\Users\qasim\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/qasim/Desktop/Final PF/main.py",C:\Users\qasim\AppData\Local\Programs\Python\Python314\python.exe "c:/Users/qasim/Desktop/Final PF/main.py"
+44,20,2025-11-28,completed
+26,20,2025-11-28 06:12,scheduled
+25,10,2025-11-28 10:40,scheduled

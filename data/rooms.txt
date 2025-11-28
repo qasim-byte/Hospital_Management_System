@@ -1,0 +1,8 @@
+R1,True
+R2,True
+R3,True
+R4,True
+R5,True
+room 1,True
+Room_1,False
+Room_2,True

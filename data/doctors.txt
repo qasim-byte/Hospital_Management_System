@@ -1,0 +1,6 @@
+10,Doctor Khurram,35,Male,Gasterologist,,,available
+20,Doctor Farhan,42,Male,Dermatologist,,Room_1,
+Doctor Sumaiya,Summaya Aftab,52,Female,Endocrinologist/ Diabaties
+40,Qasim,21,Male,Psychologist
+10,Doctor Abdullah,25,Male,Philosophy,5000.0,,available
+20,Doctor Khurram Malik,33,Male,Gasterologist,4000.0,Room_1,available
